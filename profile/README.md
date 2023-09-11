@@ -1,7 +1,7 @@
 ## Hi there 👋
 🙋‍♀️ A short introduction - what is our organization all about?  
 
---- This Organization Github is owned by our team [CO-WORK] And it'll include all files related to our project "T3AWON". <br><br> 
+🌈 This Organization Github is owned by our team [CO-WORK] And it'll include all files related to our project "T3AWON". <br><br><br> 
 
 
 
@@ -44,6 +44,8 @@ We're not just another solution; we're your solution! 🤝
 T3AWON stands out by enhancing part-time job opportunities, offering a diverse range of services, and creating an engaging experience for users. 📈  <br><br><br>
 
 
+
+
 ## Key Features:
 
 1. **🤝 Smart Job Matching:** T3AWON employs intelligent matchmaking to connect Customers with skilled Taskers. Our platform offers an extensive array of services, including:
@@ -62,33 +64,85 @@ T3AWON stands out by enhancing part-time job opportunities, offering a diverse r
 4. **🎓 Empowering Students:** T3AWON recognizes the potential of students and provides them with opportunities to earn while studying. We're nurturing a culture of entrepreneurship and self-reliance among the youth. 💼📚🚀    <br><br><br>
 
 
+
+
 ## Technologies Used 🛠️
 
 T3AWON is built using a stack of modern and robust technologies, ensuring a seamless and secure user experience. Our tech stack includes:
 
-- **Mobile Application (Flutter):**
-  - Flutter for cross-platform mobile app development. ![Flutter Icon]()
+- **Mobile Application (Flutter)📱:**
+  - Flutter for cross-platform mobile app development. ![Flutter Icon](/images/flutter.png)
   - Firebase for backend services
-  - Firestore as a NoSQL database
+  - Firestore as a NoSQL database  <br><br>
+
+    
  
 - **Frontend:**
-  - HTML5
-  - CSS3
-  - JavaScript 
-  - Bootsrap
+  - HTML5.![Html 5 Icon](/images/html.png)
+  - CSS3.![Css Icon](/images/css.png)
+  - JavaScript.![Java Script Icon](/images/javascript.png) 
+  - Bootsrap.![Bootstrap Icon](/images/bootstrap.png)  <br><br>
+
+    
 
 - **Backend:**
-- NOT SPECIFIED YET!!!
+- NOT SPECIFIED YET!!! <br><br>
 
-
+<br><br>
 
 
 - **Tools and DevOps:**
   - Git and GitHub for version control and collaboration.![GitHub Icon](/images/github1.png)
   - Android Studio as the primary integrated development environment (IDE).![Android Studio Icon](/images/android-studio.png)
-  - Figma for UI/UX design and collaboration.![Figma Icon]()
+  - Figma for UI/UX design and collaboration.![Figma Icon](/images/figma.png)
 
-This tech stack allows us to create a reliable, scalable, and user-friendly platform, ensuring a seamless experience for both Customers and Taskers.
+This tech stack allows us to create a reliable, scalable, and user-friendly platform, ensuring a seamless experience for both Customers and Taskers 🌐👥. <br><br><br> 
+
+
+
+
+
+
+## Meet the Team 🚀
+
+Meet the passionate and dedicated individuals who are driving the T3awon project forward:
+
+### Hady Habib 
+- **Role:** Team Leader
+- **LinkedIn:** [![LinkedIn Icon](https://i.imgur.com/linkedin-icon.png)](https://www.linkedin.com/in/johndoe)
+- **GitHub:** [![GitHub Icon](https://i.imgur.com/github-icon.png)](https://github.com/johndoe)
+- **Facebook:** [![Facebook Icon](https://i.imgur.com/facebook-icon.png)](https://www.facebook.com/johndoe)
+
+### Nadeen Anwar 
+- **Role:** Team Vice-Leader
+- **LinkedIn:** [![LinkedIn Icon](https://i.imgur.com/linkedin-icon.png)](https://www.linkedin.com/in/janesmith)
+- **GitHub:** [![GitHub Icon](https://i.imgur.com/github-icon.png)](https://github.com/janesmith)
+- **Facebook:** [![Facebook Icon](https://i.imgur.com/facebook-icon.png)](https://www.facebook.com/janesmith)
+
+### Kerols Maged 
+- **Role:** Mobile App[Flutter] Developer
+- **LinkedIn:** [![LinkedIn Icon](https://i.imgur.com/linkedin-icon.png)](https://www.linkedin.com/in/markjohnson)
+- **GitHub:** [![GitHub Icon](https://i.imgur.com/github-icon.png)](https://github.com/markjohnson)
+- **Facebook:** [![Facebook Icon](https://i.imgur.com/facebook-icon.png)](https://www.facebook.com/markjohnson)
+
+### Sandy Khaled 
+- **Role:** Backend Developer
+- **LinkedIn:** [![LinkedIn Icon](https://i.imgur.com/linkedin-icon.png)](https://www.linkedin.com/in/sarahlee)
+- **GitHub:** [![GitHub Icon](https://i.imgur.com/github-icon.png)](https://github.com/sarahlee)
+- **Facebook:** [![Facebook Icon](https://i.imgur.com/facebook-icon.png)](https://www.facebook.com/sarahlee)
+
+### Fatma Gellil 
+- **Role:** Backend Developer
+- **LinkedIn:** [![LinkedIn Icon](https://i.imgur.com/linkedin-icon.png)](https://www.linkedin.com/in/lisadavis)
+- **Facebook:** [![Facebook Icon](https://i.imgur.com/facebook-icon.png)](https://www.facebook.com/lisadavis)
+
+### Yomna Hegazy 
+- **Role:** UI/UX Designer
+- **LinkedIn:** [![LinkedIn Icon](https://i.imgur.com/linkedin-icon.png)](https://www.linkedin.com/in/michaelbrown)
+
+
+
+
 
 
 
