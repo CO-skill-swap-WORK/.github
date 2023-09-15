@@ -129,9 +129,9 @@ Meet the passionate and dedicated individuals who are driving the T3awon project
 
 ### Sandy Khaled 
 - **Role:** Backend Developer
-- **LinkedIn:** [![LinkedIn Icon]()](https://www.linkedin.com/in/sarahlee)
-- **GitHub:** [![GitHub Icon]()](https://github.com/sarahlee)
-- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/sarahlee)
+- **LinkedIn:** [![LinkedIn Icon]()](https://www.linkedin.com/in/sandy-khaled-584b31224)
+- **GitHub:** [![GitHub Icon]()](https://github.com/sandykhaled)
+- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/profile.php?id=100004811612421&mibextid=2JQ9oc)
 
 ### Fatma Gellil 
 - **Role:** Backend Developer
