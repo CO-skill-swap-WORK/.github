@@ -111,9 +111,9 @@ Meet the passionate and dedicated individuals who are driving the T3awon project
 
 ### Hady Habib 
 - **Role:** Team Leader
-- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/johndoe)
-- **GitHub:** [![GitHub Icon]()](https://github.com/johndoe)
-- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/johndoe)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](http://www.linkedin.com/in/hady-habib-2914b9216)
+- **GitHub:** [![GitHub Icon]()](https://github.com/hadyhabib)
+- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/hady.m.habib)
 
 ### Nadeen Anwar 
 - **Role:** Team Vice-Leader
@@ -135,15 +135,15 @@ Meet the passionate and dedicated individuals who are driving the T3awon project
 
 ### Fatma Gellil 
 - **Role:** Backend Developer
-- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/lisadavis)
-- **GitHub:** [![GitHub Icon]()](https://github.com/sarahlee)
-- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/lisadavis)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/fatma-gelil-03b455222)
+- **GitHub:** [![GitHub Icon]()](https://github.com/fatma-gelil)
+- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/profile.php?id=100076444243883&mibextid=LQQJ4d)
 
 ### Yomna Hegazy 
 - **Role:** UI/UX Designer
-- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/michaelbrown)
-- **GitHub:** [![GitHub Icon]()](https://github.com/sarahlee)
-- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/sarahlee)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/yomna-hegazy-484523289)
+- **GitHub:** [![GitHub Icon]()](https://github.com/Yomnahehazy)
+- **Facebook:** [![Facebook Icon]()](https://www.facebook.com/yomna.hegazy.35?mibextid=cejktS)
 
 
 <br><br><br> 
