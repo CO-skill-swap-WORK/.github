@@ -117,9 +117,9 @@ Meet the passionate and dedicated individuals who are driving the T3awon project
 
 ### Nadeen Anwar 
 - **Role:** Team Vice-Leader
-- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/janesmith)
-- **GitHub:** [![GitHub Icon](/images/github1.png)](https://github.com/janesmith)
-- **Facebook:** [![Facebook Icon](/images/facebook.png)](https://www.facebook.com/janesmith)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/nadeenanwar)
+- **GitHub:** [![GitHub Icon](/images/github1.png)](https://github.com/nadeenanwar4)
+- **Facebook:** [![Facebook Icon](/images/facebook.png)](https://www.facebook.com/nadeen.anwar.165)
 
 ### Kerols Maged 
 - **Role:** Mobile App[Flutter] Developer
