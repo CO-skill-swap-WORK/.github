@@ -111,37 +111,37 @@ Meet the passionate and dedicated individuals who are driving the T3awon project
 
 ### Hady Habib 
 - **Role:** Team Leader
-- **LinkedIn:** [![LinkedIn Icon]()](https://www.linkedin.com/in/johndoe)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/johndoe)
 - **GitHub:** [![GitHub Icon]()](https://github.com/johndoe)
 - **Facebook:** [![Facebook Icon]()](https://www.facebook.com/johndoe)
 
 ### Nadeen Anwar 
 - **Role:** Team Vice-Leader
-- **LinkedIn:** [![LinkedIn Icon]()](https://www.linkedin.com/in/janesmith)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/janesmith)
 - **GitHub:** [![GitHub Icon]()](https://github.com/janesmith)
 - **Facebook:** [![Facebook Icon]()](https://www.facebook.com/janesmith)
 
 ### Kerols Maged 
 - **Role:** Mobile App[Flutter] Developer
-- **LinkedIn:** [![LinkedIn Icon](https://i.imgur.com/linkedin-icon.png)](https://www.linkedin.com/in/markjohnson)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/markjohnson)
 - **GitHub:** [![GitHub Icon]()](https://github.com/markjohnson)
 - **Facebook:** [![Facebook Icon]()](https://www.facebook.com/markjohnson)
 
 ### Sandy Khaled 
 - **Role:** Backend Developer
-- **LinkedIn:** [![LinkedIn Icon]()](https://www.linkedin.com/in/sandy-khaled-584b31224)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/sandy-khaled-584b31224)
 - **GitHub:** [![GitHub Icon]()](https://github.com/sandykhaled)
 - **Facebook:** [![Facebook Icon]()](https://www.facebook.com/profile.php?id=100004811612421&mibextid=2JQ9oc)
 
 ### Fatma Gellil 
 - **Role:** Backend Developer
-- **LinkedIn:** [![LinkedIn Icon]()](https://www.linkedin.com/in/lisadavis)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/lisadavis)
 - **GitHub:** [![GitHub Icon]()](https://github.com/sarahlee)
 - **Facebook:** [![Facebook Icon]()](https://www.facebook.com/lisadavis)
 
 ### Yomna Hegazy 
 - **Role:** UI/UX Designer
-- **LinkedIn:** [![LinkedIn Icon]()](https://www.linkedin.com/in/michaelbrown)
+- **LinkedIn:** [![LinkedIn Icon](/images/linkedin.png)](https://www.linkedin.com/in/michaelbrown)
 - **GitHub:** [![GitHub Icon]()](https://github.com/sarahlee)
 - **Facebook:** [![Facebook Icon]()](https://www.facebook.com/sarahlee)
 
